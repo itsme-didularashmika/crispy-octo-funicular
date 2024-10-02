@@ -13,8 +13,8 @@
 */
 
 const config = {
-  token: 'TOKEN_BOT',
-  adminId: 'ID_OWNER', 
+  token: '7547810892:AAFYSmKyzyLyBBK2dsKjwkECAbtQcJQyHSA',
+  adminId: '7755823415', 
 };
 
 module.exports = config;
